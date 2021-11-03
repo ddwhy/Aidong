@@ -1,0 +1,32 @@
+2021-10-15 11:41:47,091 INFO [root] [payOrderApi.py (__init__:14] - 支付接口的url是None
+2021-10-15 11:41:47,094 INFO [root] [loginApi.py (__init__:18] - 登录的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/user/login.html
+2021-10-15 11:41:47,234 INFO [root] [orderApi.py (__init__:10] - 提交订单的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/buy/add.html
+2021-10-15 11:41:47,234 INFO [root] [orderApi.py (order:22] - 提交订单的data是{'goods_id': 1, 'stock': 2, 'buy_type': 'goods', 'address_id': 600, 'payment_id': 1, 'spec': ''}
+2021-10-15 11:41:47,404 INFO [root] [orderApi.py (order:24] - 提交订单的响应是<Response [200]>
+2021-10-15 11:41:47,405 INFO [root] [orderApi.py (order:28] - 提交订单提取的JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/15668.html
+2021-10-15 11:42:52,889 INFO [root] [orderApi.py (__init__:10] - 提交订单的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/buy/add.html
+2021-10-15 11:42:52,889 INFO [root] [loginApi.py (__init__:18] - 登录的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/user/login.html
+2021-10-15 11:42:53,029 INFO [root] [orderApi.py (order:22] - 提交订单的data是{'goods_id': 1, 'stock': 2, 'buy_type': 'goods', 'address_id': 600, 'payment_id': 1, 'spec': ''}
+2021-10-15 11:42:53,192 INFO [root] [orderApi.py (order:24] - 提交订单的响应是<Response [200]>
+2021-10-15 11:42:53,192 INFO [root] [orderApi.py (order:28] - 提交订单提取的JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/15669.html
+2021-10-15 11:43:19,381 INFO [root] [payOrderApi.py (__init__:14] - 支付接口的url是None
+2021-10-15 11:43:19,382 INFO [root] [loginApi.py (__init__:18] - 登录的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/user/login.html
+2021-10-15 11:43:19,521 INFO [root] [orderApi.py (__init__:10] - 提交订单的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/buy/add.html
+2021-10-15 11:43:19,521 INFO [root] [orderApi.py (order:22] - 提交订单的data是{'goods_id': 1, 'stock': 2, 'buy_type': 'goods', 'address_id': 600, 'payment_id': 1, 'spec': ''}
+2021-10-15 11:43:19,699 INFO [root] [orderApi.py (order:24] - 提交订单的响应是<Response [200]>
+2021-10-15 11:43:19,699 INFO [root] [orderApi.py (order:28] - 提交订单提取的JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/15670.html
+2021-10-15 11:43:40,848 INFO [root] [loginApi.py (__init__:18] - 登录的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/user/login.html
+2021-10-15 11:43:41,120 INFO [root] [loginApi.py (login:21] - 登录的data数据是{'accounts': 'yaoyao', 'pwd': ''}
+2021-10-15 11:43:41,240 INFO [root] [loginApi.py (login:23] - 登录的响应数据是<Response [200]>
+2021-10-15 11:43:41,358 INFO [root] [loginApi.py (login:21] - 登录的data数据是{'accounts': '', 'pwd': 'yaoyao'}
+2021-10-15 11:43:41,480 INFO [root] [loginApi.py (login:23] - 登录的响应数据是<Response [200]>
+2021-10-15 11:43:41,568 INFO [root] [loginApi.py (login:21] - 登录的data数据是{'accounts': 'lwx', 'pwd': 'yaoyao'}
+2021-10-15 11:43:41,702 INFO [root] [loginApi.py (login:23] - 登录的响应数据是<Response [200]>
+2021-10-15 11:43:41,791 INFO [root] [loginApi.py (login:21] - 登录的data数据是{'accounts': 'yaoyao', 'pwd': '123456'}
+2021-10-15 11:43:41,911 INFO [root] [loginApi.py (login:23] - 登录的响应数据是<Response [200]>
+2021-10-15 11:43:56,688 INFO [root] [payOrderApi.py (__init__:14] - 支付接口的url是None
+2021-10-15 11:43:56,688 INFO [root] [loginApi.py (__init__:18] - 登录的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/user/login.html
+2021-10-15 11:43:56,821 INFO [root] [orderApi.py (__init__:10] - 提交订单的url地址是http://121.42.15.146:9090/mtx/index.php?s=/index/buy/add.html
+2021-10-15 11:43:56,822 INFO [root] [orderApi.py (order:22] - 提交订单的data是{'goods_id': 1, 'stock': 2, 'buy_type': 'goods', 'address_id': 600, 'payment_id': 1, 'spec': ''}
+2021-10-15 11:43:56,980 INFO [root] [orderApi.py (order:24] - 提交订单的响应是<Response [200]>
+2021-10-15 11:43:56,980 INFO [root] [orderApi.py (order:28] - 提交订单提取的JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/15671.html

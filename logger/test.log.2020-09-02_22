@@ -1,0 +1,6 @@
+2020-09-02 22:04:33,777 INFO [root] [orderApi.py (order:23] - config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4393.html
+2020-09-02 22:04:33,783 INFO [root] [payOrderApi.py (__init__:11] - self.url的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4393.html
+2020-09-02 22:04:34,069 INFO [root] [orderApi.py (order:23] - config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4394.html
+2020-09-02 22:20:09,864 INFO [root] [orderApi.py (order:23] - config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4397.html
+2020-09-02 22:20:09,871 INFO [root] [payOrderApi.py (__init__:11] - self.url的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4397.html
+2020-09-02 22:20:10,199 INFO [root] [orderApi.py (order:23] - config.JUMP_URL的值是http://121.42.15.146:9090/mtx/index.php?s=/index/order/pay/id/4398.html

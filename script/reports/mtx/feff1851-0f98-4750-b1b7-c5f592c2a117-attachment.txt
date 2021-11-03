@@ -1,0 +1,2 @@
+INFO     root:loginApi.py:21 登录的data数据是{'accounts': '', 'pwd': 'yaoyao'}
+INFO     root:loginApi.py:23 登录的响应数据是<Response [200]>
